@@ -2,6 +2,8 @@
 
 # A Snake AI Agent trained using Reinforcement Learning
 
+![](assets/meme.jpg)
+
 Simple 1 hidden linear layer network used.
 
 Next iteration: a `ConvNet` taking the frame image as input
