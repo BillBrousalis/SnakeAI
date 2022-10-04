@@ -4,7 +4,6 @@ from game.snake import Snake
 from game.food import Food
 from game.directions import Directions as Dir
 
-# input vec = [distance to danger up, down, left, right, distance to food up, down, left, right]
 def state2vector(GRID, snake, food):
   vec = []
   head = snake[0]
